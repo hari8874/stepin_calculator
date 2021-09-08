@@ -1,6 +1,5 @@
 # stepin_calculator
 
-# STEPin-calculator
 ![Code quality score](https://www.code-inspector.com/project/27920/score/svg)
 ![Code grade](https://www.code-inspector.com/project/27920/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7ece5e5e0fc340cc92861aa1e9fa688e)](https://www.codacy.com/gh/Sravan-ltts/STEPin-creating-application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sravan-ltts/STEPin-creating-application&amp;utm_campaign=Badge_Grade)
