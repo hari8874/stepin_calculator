@@ -19,7 +19,7 @@ Folder               | Description
 
 PS No.     |  Name   | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------    |---------|----------------|---------------|-------------|--------------
-99006115   | hari    |      X No      |      X No     |     X No    |     X No     
+99006115   | hari    |      2         |      2        |     X No    |     X No     
     
 
 ## Challenges Faced and How Was It Overcome
